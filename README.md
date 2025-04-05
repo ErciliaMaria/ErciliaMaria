@@ -16,6 +16,7 @@ Olá! Meu nome é Ercilia,  sou estudante de Análise e Desenvolvimento de siste
 - HTML/CSS
 
 ## Estudando
+- PHP
 - Java
 - JavaScript
 
