@@ -8,8 +8,8 @@ Olá! Meu nome é Ercilia,  sou estudante de Análise e Desenvolvimento de siste
   
 
 ## Habilidades
--JavaScript
--JQuery
+- JavaScript
+- JQuery
 - PHP
 - Laravel
 - SQL
