@@ -1,7 +1,7 @@
 # Ercilia Carvalho
 
 ## Sobre mim
-Olá! Meu nome é Ercilia,  sou estudante de Análise e Desenvolvimento de sistemas (ADS) e atualmente estou cursando Programação FullStack Java na Eback.
+Olá! Sou estudante de Análise e Desenvolvimento de sistemas (ADS). Estou a 2 anos atuando na área de Desenvolvimento com foco em habilidades em PHP, Laravel e Mysql.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ercilia-maria-dev)
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](erciliacarvalho2@gmail.com)
@@ -18,6 +18,7 @@ Olá! Meu nome é Ercilia,  sou estudante de Análise e Desenvolvimento de siste
 - HTML/CSS
 
 ## Estudando
+- PHP
 - JavaScript
 
 ## Projetos Relevantes
