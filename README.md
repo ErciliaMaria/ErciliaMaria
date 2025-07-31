@@ -25,7 +25,7 @@ Olá! Sou estudante de Sistema de Informação (SI). Estou a 2 anos atuando na �
 - Vuetify
 
 ## Projetos Relevantes
-- Projeto Portfólio Pessoal: ([https://portfolio-omega-lake-20.vercel.app/](https://github.com/ErciliaMaria/Portfolio))
+- Projeto Portfólio Pessoal: (https://github.com/ErciliaMaria/Portfolio)
 - Projeto Login Laravel: (https://github.com/ErciliaMaria/Login_Backend)
 - Projeto Login Vue: (https://github.com/ErciliaMaria/Login)
 - Projeto de Portfolio Fake em React: (https://portfolio-omega-lake-20.vercel.app/)
