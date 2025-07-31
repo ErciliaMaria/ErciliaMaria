@@ -16,18 +16,19 @@ Olá! Sou estudante de Sistema de Informação (SI). Estou a 2 anos atuando na �
 - Bootstrap
 - Vue.js
 - HTML/CSS
+- Tailwind
 
 ## Estudando
 - Vue.js
 - JavaScript
 - Laravel
--Vuetify
+- Vuetify
 
 ## Projetos Relevantes
-
+- Projeto Portfólio Pessoal: (https://portfolio-omega-lake-20.vercel.app/)
 - Projeto Login Laravel: (https://github.com/ErciliaMaria/Login_Backend)
 - Projeto Login Vue: (https://github.com/ErciliaMaria/Login)
-- Projeto de Portfolio em React: (https://portfolio-omega-lake-20.vercel.app/)
+- Projeto de Portfolio Fake em React: (https://portfolio-omega-lake-20.vercel.app/)
 - Portfolio Fake React: (https://github.com/ErciliaMaria/Portfolio-College)
 
 ## Contato
